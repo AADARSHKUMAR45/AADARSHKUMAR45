@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aadarsh Kumar 👋
 
-<!--
-**AADARSHKUMAR45/AADARSHKUMAR45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Java & Data Structures & Algorithms  
+⚙️ Currently Learning DevOps (Git, Docker, CI/CD)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Java
+- Data Structures & Algorithms
+- Git & GitHub
+- Docker (Learning)
+- CI/CD Basics
+
+---
+
+## 📈 Coding Practice
+- Active on LeetCode
+- Regular problem solving
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aadarsh-kumar-ab5822296/
+- LeetCode: https://leetcode.com/u/aadarsh_kushwaha_103k
