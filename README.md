@@ -12,7 +12,7 @@
 - Git & GitHub
 - Docker (Learning)
 - CI/CD Basics
--Sqlite
+- Sqlite
 ---
 
 ## 📈 Coding Practice
