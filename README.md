@@ -13,6 +13,9 @@
 - Docker (Learning)
 - CI/CD Basics
 - Sqlite
+- MySQL
+- AWT
+- SPRING
 ---
 
 ## 📈 Coding Practice
