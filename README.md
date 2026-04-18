@@ -14,7 +14,6 @@
 - CI/CD Basics
 - Sqlite
 - MySQL
-- AWT
 - SPRING
 ---
 
