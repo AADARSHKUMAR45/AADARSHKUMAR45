@@ -9,13 +9,10 @@
 ## 🚀 Skills
 - Java
 - Data Structures & Algorithms
-- Git & GitHub
-- Docker (Learning)
-- CI/CD Basics
+- Git & GitHuB
 - Sqlite
 - MySQL
-- SPRING
----
+- SPRINGBOOT
 
 ## 📈 Coding Practice
 - Active on LeetCode
